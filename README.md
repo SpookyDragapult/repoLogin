@@ -10,4 +10,4 @@ the login file will be updated further as it is currently looks quite unappealin
 
 (Note for my teammates: I will work on more pages in the future and probably do the backend as well)
 
-25/10/2024: added register form and a link to login page in navbar. will add home page later once i've figured out how to make a card slider for the movie list. currently, it will redirects to an empty home page with just the navbar on top
+25/10/2024: added register form and a link to login page in navbar. will add home page later once i've figured out how to make a card slider for the movie list. currently, it will redirect to an empty home page with just the navbar on top
