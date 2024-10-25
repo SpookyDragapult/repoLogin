@@ -5,7 +5,9 @@ file to see if you're trying to finish the homework (the necessary codes to scre
 2. jwt => backend/app.js, backend/routes/auth.js
 3. Axios => frontend/login/src/Component/Login.js
 
-you will need to have react, express, bcryptjs, axios, cors, bootstrap, and jsonwebtoken installed to run these files as i have not included their respective node_modules (react, axios, bootstrap, and cors will be inside frontend/login and the rest will be inside backend)
+you will need to have react, express, bcryptjs, axios, cors, bootstrap, and jsonwebtoken installed to run these files as i have not included their respective node_modules (react, axios, bootstrap, and cors will be inside frontend/login and the rest will be inside backend) you may also need to reconfigure the mongodb database since i'm using a local one. you can update them at the location specified above
+
+
 the login file will be updated further as it is currently looks quite unappealing and a register form will be added at a later date.
 
 (Note for my teammates: I will work on more pages in the future and probably do the backend as well)
