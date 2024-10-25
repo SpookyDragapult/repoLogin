@@ -9,3 +9,5 @@ you will need to have react, express, bcryptjs, axios, cors, bootstrap, and json
 the login file will be updated further as it is currently looks quite unappealing and a register form will be added at a later date.
 
 (Note for my teammates: I will work on more pages in the future and probably do the backend as well)
+
+25/10/2024: added register form. will add home page later once i've figured out how to make a card slider for the movie list
