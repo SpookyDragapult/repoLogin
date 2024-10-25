@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
@@ -15,7 +16,7 @@ const Navbar = () => {
                             <a className="nav-link active" aria-current="page" href="#">Home</a>
                           </li>
                           <li className="nav-item">
-                            <a className="nav-link" href="#">Your Tickets</a>
+                            <Link className="nav-link" to="/login">Login</Link>
                           </li>
                           <li className="nav-item">
                             <a className="nav-link" href="#">Theatres</a>

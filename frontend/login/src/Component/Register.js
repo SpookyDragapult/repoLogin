@@ -75,7 +75,7 @@ const Register = () => {
                         className="form-control"
                     />
                 </div>
-                <button className="btn btn-primary" type="submit">Login</button>
+                <button className="btn btn-primary" type="submit">Register</button>
                 <p className="form-text">Already have an account?<Link to="/login">Login</Link></p>
                 {error && <p style={{ color: 'red' }}>{error}</p>}
                 {message && <p style={{ color: 'green' }}>{message}</p>}
